@@ -1,6 +1,6 @@
 #!/bin/bash
-# Inspired by: github.com/thelinuxchoice/saycheese
-# Modified by: github.com/kinghacker0/WishPhish
+# Inspired by: github.com/kinghacker0/WishPhish
+# Modified by: github.com/heyimpreetham/CamJack
 
 trap 'printf "\n";stop' 2
 
@@ -13,7 +13,7 @@ echo -e "\033[31m |        / ---- \  |        |\e[0m    |     / ---- \  |      |
 echo -e "\033[31m |       /        \ |        |\e[0m    |    /        \ |      | \  ";
 echo -e "\033[31m |__ __ /          \|        |\e[0m ___|   /          \|__ __ |  \ ";
 
-printf "\e[1;77m Website :- heyimpreetham@github.io \e[0m \n"
+
 
 }
 
